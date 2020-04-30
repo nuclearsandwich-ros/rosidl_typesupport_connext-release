@@ -1,1 +1,1 @@
-{"trim": "", "base": "2094b6d", "trimbase": "", "parent": "debian/eloquent/connext_cmake_module", "previous": "764339d"}
+{"base": "c7c175b", "parent": "debian/verystable/connext_cmake_module", "previous": "a70eb89", "trim": "", "trimbase": ""}

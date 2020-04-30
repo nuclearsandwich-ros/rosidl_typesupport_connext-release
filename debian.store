@@ -1,1 +1,1 @@
-{"trim": "", "base": "7180617", "trimbase": "", "parent": "debian/eloquent/rosidl_typesupport_connext_c", "previous": "ed6852a"}
+{"base": "db2bcf2", "parent": "debian/verystable/rosidl_typesupport_connext_c", "previous": "7eb86d1", "trim": "", "trimbase": ""}

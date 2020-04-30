@@ -1,4 +1,4 @@
-From e213afa2cd70b9c6bdf49107c46bfcb8489b65fc Mon Sep 17 00:00:00 2001
+From ed6852ac836added49bc8797ca59a1c77cc87c8a Mon Sep 17 00:00:00 2001
 From: Michael Carroll <michael@openrobotics.org>
 Date: Thu, 26 Sep 2019 14:51:34 -0500
 Subject: [PATCH 2/2] Revert "Convert vendor env script to sh and source it."
@@ -71,5 +71,5 @@ index 6ede6e7..9c9604d 100755
 -	> /tmp/rtienv.sh; \
 -	else touch /tmp/rtienv.sh; fi
 -- 
-2.17.1
+2.26.1
 

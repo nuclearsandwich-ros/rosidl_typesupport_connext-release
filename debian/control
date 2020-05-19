@@ -1,0 +1,12 @@
+Source: ros-testing-rosidl-typesupport-connext-cpp
+Section: misc
+Priority: optional
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-testing-ament-cmake, ros-testing-ament-lint-auto, ros-testing-ament-lint-common, ros-testing-connext-cmake-module, ros-testing-rosidl-cmake, rti-connext-dds-5.3.1, ros-testing-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-testing-rosidl-typesupport-connext-cpp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-testing-ament-cmake, ros-testing-connext-cmake-module, ros-testing-rcutils, ros-testing-rmw, ros-testing-rosidl-cmake, ros-testing-rosidl-generator-dds-idl, ros-testing-rosidl-parser, ros-testing-rosidl-runtime-c, ros-testing-rosidl-runtime-cpp, ros-testing-rosidl-typesupport-interface, rti-connext-dds-5.3.1, ros-testing-ros-workspace
+Description: Generate the C++ interfaces for RTI Connext.
